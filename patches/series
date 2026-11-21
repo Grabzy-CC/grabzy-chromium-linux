@@ -8,3 +8,8 @@ ungoogled-chromium/portablelinux/chromium-156-remove-private-verification-tokens
 ungoogled-chromium/portablelinux/chromium-156-revert-crubit-changes.patch
 ungoogled-chromium/portablelinux/chromium-156-revert-use-typescript-go.patch
 
+grabzy/keep-websocket-pages-out-of-bfcache.patch
+grabzy/keep-background-timers-awake.patch
+grabzy/default-to-grabzy-theme.patch
+grabzy/grabzy-updater.patch
+grabzy/grabzy-bundled-extension.patch
